@@ -1,16 +1,19 @@
-### Hi there 👋
+### Sthevan Bello Alves
+##### Atualmente sou estudante de Análise e Desenvolvimento de Sistemas pela Faculdade Impacta Tecnologia
+##### Aprendendo as seguintes tecnologias
+- C#
+- .Net Core
+- .Net Framework
+- Asp.Net Core MVC
+- SQL Server
+- HTML
+- CSS
+- Javascript
+- Python
+#### Contatos
+###### Linkedin: https://www.linkedin.com/in/sthevanbelloalves/
+###### e-mail: sthevan.alves@gmail.com
 
-<!--
-**sthevanbello/sthevanbello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Meus status:
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sthevanbello&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sthevanbello&show_icons=true&layout=compact&langs_count=10&theme=radical)
