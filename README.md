@@ -1,5 +1,6 @@
 ## Sthevan Bello Alves
-#### Atualmente sou estudante de Análise e Desenvolvimento de Sistemas pela Faculdade Impacta Tecnologia
+#### Atualmente sou estudante do curso de Análise e Desenvolvimento de Sistemas pela Faculdade Impacta Tecnologia
+##### Estudo constantemente através da plataforma Alura e de cursos avulsos pela plataforma Udemy
 ##### Aprendendo as seguintes tecnologias
 - C#
 - .Net Core
