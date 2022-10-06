@@ -18,5 +18,5 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sthevan/)](https://www.linkedin.com/in/sthevan/)
 
-### Meus status:![Snake animation](https://github.com/sthevanbello/sthevanbello/blob/output/github-contribution-grid-snake.svg)
+### Meus status:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sthevanbello&show_icons=true&theme=radical&include_all_commits=true&count_private=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sthevanbello&show_icons=true&layout=compact&langs_count=10&theme=radical)
