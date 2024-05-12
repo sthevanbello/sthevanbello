@@ -1,7 +1,7 @@
 ## Sthevan Bello Alves
-####  Atualmente sou Técnico de Sistemas Jr. na BRQ Solutions <br><br>
-<a href="https://www.brq.com/" target="_blank"><img src="https://www.brq.com/_next/static/media/brq-logo-w.873a50fa.svg" height="50"/></a>   
-#### Estudante do curso de Análise e Desenvolvimento de Sistemas pela Faculdade Impacta Tecnologia
+####  Atualmente sou Desenvolvedor na BRQ Solutions <br><br>
+
+#### Formado em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta Tecnologia
 ##### Estudo constantemente através da plataforma Balta.io, Desenvolvedor.io e de cursos avulsos pela plataforma Udemy.
 ##### Aprendendo as seguintes tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/> 
@@ -13,6 +13,9 @@
 - HTML
 - CSS
 - Javascript
+- RabbitMq
+- MongoDB
+- Redis
 - Python
 #### Contatos
 
