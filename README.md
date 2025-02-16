@@ -4,7 +4,7 @@
 #### Formado em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta Tecnologia
 ##### Estudo constantemente através da plataforma Balta.io, Desenvolvedor.io e de cursos avulsos pela plataforma Udemy.
 ##### Aprendendo as seguintes tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/> <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" width="150" height="50"/> <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" width="50" height="50"/>
 - C#
 - Python
 - Go
