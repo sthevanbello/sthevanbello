@@ -6,6 +6,8 @@
 ##### Aprendendo as seguintes tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/> 
 - C#
+- Python
+- Go
 - .Net Core
 - Asp.Net Core
 - .Net Framework
@@ -16,7 +18,6 @@
 - RabbitMq
 - MongoDB
 - Redis
-- Python
 #### Contatos
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sthevan/)](https://www.linkedin.com/in/sthevan/)
